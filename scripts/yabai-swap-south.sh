@@ -14,4 +14,4 @@
 # @raycast.author KuangyeChen
 # @raycast.authorURL https://raycast.com/KuangyeChen
 
-yabai -m window --swap south && echo "Yabai swaped south"
+yabai -m window --swap south && echo "Yabai swapped south"
